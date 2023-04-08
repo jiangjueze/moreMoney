@@ -16,3 +16,7 @@ export default {
   }
 }
 </script>
+
+// <style lang="scss" scoped>
+//   @import "~@/assets/styles/test.scss";
+// </style>
