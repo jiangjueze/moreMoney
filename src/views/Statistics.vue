@@ -1,12 +1,13 @@
 <template>
-  <div>
+  <Layout>
     Statistics.vue
-  </div>
+  </Layout>
 </template>
 
 <script>
+  
+
   export default {
-    
   }
 </script>
 
